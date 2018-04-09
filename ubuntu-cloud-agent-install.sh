@@ -1,0 +1,2 @@
+sudo dpkg --install qualys-cloud-agent.x86_64.deb  
+sudo /usr/local/qualys/cloud-agent/bin/qualys-cloud-agent.sh ActivationId=d86f734d-e8c4-4060-947f-1af09be5a52d CustomerId=20624844-f8ba-c085-8029-711c7abc6630
